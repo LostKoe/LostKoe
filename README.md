@@ -4,7 +4,7 @@ Sou um estudante de tecnologia que curte programação, animes, música e estét
 
 ---
 
-### 💻 Skills & Ferramentas
+### 💻 Skills
 Já sei e uso:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
