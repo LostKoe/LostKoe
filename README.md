@@ -31,4 +31,6 @@ Quero aprender:
 ---
 
 ### 📫 Contato
-Você pode me encontrar aqui mesmo no [GitHub](https://github.com/LostKoe), e um dia quando tiver um portifólio, compartilharei aqui.
+Você pode me encontrar aqui mesmo no [GitHub](https://github.com/LostKoe) ou no meu [portifólio](https://lostkoe.github.io/LostKoe.dev/).
+
+Última alteração: 21/07/2025 às 16:02
