@@ -1,16 +1,52 @@
 <h1 align="center">Olá, eu sou LostKoe</h1>
-<p align="center">Sou um desenvolvedor web iniciante que busca ser Full-Stack, no momento, estou trabalhando mais com Front-End, mas um dia eu vou chegar no meu objetivo.</p>
+<p align="center">Desenvolvedor Web em formação seguindo seu caminho para ser Full-Stack</p>
 
-<h2>Tecnologias e ferramentas que eu uso</h2>
+---
 
-| Tecnologia/Ferramenta | Representação | Desde quando uso/comecei a aprender | Nível |
-| :-------------------: | :-----------: | :---------------------------------: | :---: |
-| HTML | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff) | a | a |
-| CSS | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff) | a | a |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) | a | a |
-| Git | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff) | a | a |
-| GitHub | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff) | a | a |
-| VS Code | ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) | a | a |
+## Sobre Mim
+Sou um estudante apaixonado por tecnologia, animes e música clássica. No momento, estou focado em me tornar um desenvolvedor Front-End usando HTML, CSS, JavaScript, Git e GitHub. Ainda não comecei com frameworks, mas pretendo explorá-los em breve.
 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
+Comecei a programar há cerca de 1 ano, sempre buscando aprender e praticar para aprimorar minhas habilidades. Meu objetivo é me tornar Full-Stack e criar projetos que unam um bom design com funcionalidades úteis. Estou criando alguns projetos simples, mas com muito carinho e aprendizado envolvido.
+
+## Tecnologias e ferramentas que eu uso
+
+| Tecnologia/Ferramenta | Para o que serve                                              | Nível                        |
+| :-------------------: | :-----------------------------------------------------------: | :--------------------------: |
+| HTML                  | Estrutura o conteúdo do site (textos, imagens, links etc).    | Intermediário                |
+| CSS                   | Dá estilo ao site (cores, fontes, animações etc).             | Intermediário                |
+| JavaScript            | Adiciona interatividade (botões, animações, ações dinâmicas). | Intermediário Iniciante      |
+| Git                   | Controla versões do código, como uma máquina do tempo.        | Iniciante                    |
+| GitHub                | Hospeda projetos e colaborações em nuvem.                     | Iniciante                    |
+| VS Code               | Editor de código poderoso com várias extensões.               | Iniciante para Intermediário |
+
+## Projetos destacados
+Aqui vai ter alguns projetos que eu gostaria de destacar mais por algum motivo. Aqui está a lista deles:
+*Em breve...*
+
+## Ferramentas que uso na web
+1. [Behance](https://www.behance.net/)
+2. [Dribbble](https://dribbble.com/)
+3. [Color Hunt](https://colorhunt.co/)
+4. [Font Pair](https://fontpair.co/)
+5. [CSS Tricks](https://css-tricks.com/)
+6. [Dev Docs](https://devdocs.io/)
+7. [Google Fonts](https://fonts.google.com/)
+
+## Ideias de projetos futuros
+*Em breve...*
+
+## Estatísticas
+
+<div align="center">
+
+  ![LostKoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostKoe&show_icons=true&theme=radical&count_private=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LostKoe&layout=compact&theme=radical)
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=LostKoe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+<p align="center"><em>Obs: comecei a ficar mais ativo no GitHub recentemente, então ainda estou construindo minha presença por lá.</em></p>
+
+## Contato
+Em breve colocarei meus meios de contato por aqui. Enquanto isso, você pode acompanhar meus projetos aqui no GitHub.
